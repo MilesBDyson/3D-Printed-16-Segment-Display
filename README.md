@@ -13,11 +13,17 @@
   
   
   Parts:
+  
   2 x 74HC595
+  
   2 x 2 pin Multilayer Ceramic Capacitors 'A5E104M'
+  
   16 x 2x3x4 mm squar LED's
+  
   16 x 470ohm resistors
+  
   32 x Male Headder Pins
+  
   Wrapping Wire was used for the connections 'AWG30'
   
   
