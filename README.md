@@ -8,5 +8,17 @@
   
   The Display is NOT PCB compliant.
   can be driven by 2 X 74HC595 shift registers per Digit. 
+  The PCB can be Dasie Chained to create large display arrays
+  Operating Voltage for the display is 5v.
+  
+  
+  Parts:
+  2 x 74HC595
+  2 x 2 pin Multilayer Ceramic Capacitors 'A5E104M'
+  16 x 2x3x4 mm squar LED's
+  16 x 470ohm resistors
+  32 x Male Headder Pins
+  Wrapping Wire was used for the connections 'AWG30'
+  
   
   ![alt text](images/Med-16-seg.png)
