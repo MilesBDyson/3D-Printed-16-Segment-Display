@@ -27,4 +27,9 @@
   Wrapping Wire was used for the connections 'AWG30'
   
   
-  ![alt text](images/Med-16-seg.png)
+  ![alt text](images/GOPR0379.JPG)
+  ![alt text](images/16-seg-display-v2_pcb.png)
+  ![alt text](images/Segment-Labels.png)
+  
+  
+  
