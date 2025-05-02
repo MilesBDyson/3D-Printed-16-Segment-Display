@@ -32,4 +32,4 @@
   ![alt text](images/Segment-Labels.png)
   
   
-  
+  [![Hits](https://hits.sh/github.com/MilesBDyson/3D-Printed-16-Segment-Display.svg)](https://hits.sh/github.com/MilesBDyson/3D-Printed-16-Segment-Display/)
