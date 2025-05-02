@@ -10,7 +10,8 @@
   can be driven by 2 X 74HC595 shift registers per Digit. 
   The PCB can be Dasie Chained to create large display arrays
   Operating Voltage for the display is 5v.
-  
+
+  ![Thingiverse](https://www.thingiverse.com/thing:6550734)
   
   Parts:
   
